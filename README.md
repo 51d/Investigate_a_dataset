@@ -6,5 +6,7 @@ The dataset I choose was the Titanic Dataset provided by Kaggle.
 This repository contains:
 
 1-copy of the dataset "titanic_data.csv"
+
 2-HTML version of the report "Titanic Dataset Investigation.html"
+
 3-iPython notebook - used to generate the report "Titanic Dataset Investigation.ipynb"
